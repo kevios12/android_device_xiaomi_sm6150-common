@@ -11,4 +11,10 @@
         "target_path":  "vendor/xiaomi/sm6150-common",
         "revision":     "thirteen"
     },
+    {
+        "remote":       "gitlab",
+        "repository":   "alibei/android_vendor_proprietary_widevine",
+        "target_path":  "vendor/proprietary/widevine",
+        "revision":     "thirteen"
+    },
 ]
