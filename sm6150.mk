@@ -145,6 +145,7 @@ PRODUCT_COPY_FILES += \
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey \
+    android.hardware.drm@1.4-service.widevine \
     android.hardware.drm@1.4.vendor
 
 # Fastbootd
