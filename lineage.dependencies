@@ -1,10 +1,20 @@
 [
   {
-    "repository": "android_kernel_xiaomi_sm6150",
+    "remote": "github",
+    "repository": "alibei/android_kernel_xiaomi_sm6150",
     "target_path": "kernel/xiaomi/sm6150"
+    "revision": "fourteen"
   },
   {
-    "repository": "android_hardware_xiaomi",
+    "remote": "gitlab",
+    "repository": "alibei/android_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "revision": "fourteen"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
+    "revision": "lineage-21"
   }
 ]
